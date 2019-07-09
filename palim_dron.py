@@ -1,8 +1,8 @@
 def palindrome():
-    global first_order, back_order, divide
     first_order = ""
     back_order = ""
-    word = "perorep"
+    divide = 0
+    word = "perorek"
     lenght: int = int(len(word) / 2 + 1)
     reverse: str = ""
 
