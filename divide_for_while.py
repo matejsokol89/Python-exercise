@@ -7,7 +7,6 @@ def while_loop():
         # ovdje tih 5 incrementam za 1 pa će biti 5,6,7....10,11...15...,30...
         if count % 5 == 0 and count % 3 == 0:
             # provjeravam je li broj djeljiv sa 5 i 3
-            print("ovo je djeljivo s 3 i 5")
             print(count)
             # ako je printaj mi taj broj
 

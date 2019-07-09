@@ -6,7 +6,11 @@ from palim_dron import palindrome
 if __name__ == '__main__':
     sum_all_seven()
     sum_specific_seven()
+    print()
     for_loop_divide()
+    print()
     while_loop()
+    print()
     palindrome()
+    print()
     bubble()
