@@ -16,3 +16,12 @@ def for_loop_divide():
     for i in range(5, value + 1):
         if i % 5 == 0 and i % 3 == 0:
             print(i)
+
+
+def do_while():
+    count = 5
+    while count < 50:
+        count = count + 1
+        if count % 5 == 0 and count % 3 == 0:
+            print(count)
+# emulating do while because python doesnt have do while
