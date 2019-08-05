@@ -1,7 +1,7 @@
 from typing import List
 
 a: List[List[int]] = [
-    [7, 4, 3],
+    [5, 1, 7],
     [1, 1, 7],
     [1, 7, 7]
 ]
